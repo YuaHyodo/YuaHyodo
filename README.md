@@ -7,7 +7,7 @@
 # I interested in
 - Machine Learning
 - Computer Science
-- Aalaeontology
+- Palaeontology
 - Astronomy
 
 # What did I made?
