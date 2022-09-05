@@ -55,7 +55,7 @@ came in 18th(League B | AI AN Shogi | 3 wins 11 losses), <br>
 23th(League B round 4 | Tansabo_kun | 6 wins 12 losses),<br>
 24th(League B round 4 | AI Ari Shogi | 6 wins 12 losses).
 
-- 2022/7/13 ~ now: dlreversi has maintained first place [novoc studio](https://www.novoc.io/) reversi game.
+- 2022/7/13 ~ now: dlreversi has maintained first place in [novoc studio](https://www.novoc.io/) reversi game.
 
 # contact
 - lichess: https://lichess.org/@/UA_2419006
