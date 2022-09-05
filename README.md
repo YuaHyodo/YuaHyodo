@@ -38,7 +38,7 @@ came in 18th(League B | AI AN Shogi | 3 wins 11 losses), <br>
 
 - 2022/5/3: Participated [World Computer Shogi Championship(WCSC32)](http://www2.computer-shogi.org/wcsc32/), came in 29th.(first qualifyng round | AI Ari Shogi | 2 wins 6 losses)
 
-- 2022/7/9, 2022/7/23: [Participated Top Shogi Engine Championship(TSEC3)](https://denryu-sen.jp/denryusen/dr3_tsec/dr1_live.php), came in <br>
+- 2022/7/9, 2022/7/23: Participated [Top Shogi Engine Championship(TSEC3)](https://denryu-sen.jp/denryusen/dr3_tsec/dr1_live.php), came in <br>
 34th(preliminaries | AI AN Shogi | 3 wins 21 losses), <br>
 33th(preliminaries | AI Ari Shogi | 6 wins 18 losses),<br>
 32th(preliminaries | Tansaibo_kun | 7 wins 17 losses),<br>
