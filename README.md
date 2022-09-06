@@ -43,16 +43,16 @@ came in 18th(League B | AI AN Shogi | 3 wins 11 losses), <br>
 33th(preliminaries | AI Ari Shogi | 6 wins 18 losses),<br>
 32th(preliminaries | Tansaibo_kun | 7 wins 17 losses),<br>
 26th(League B round 1 | AI AN Shogi | 4 wins 14 losses),<br>
-24th(League B round 1 | Tansabo_kun | 5 wins 18 losses),<br>
+24th(League B round 1 | Tansaibo_kun | 5 wins 18 losses),<br>
 21th(League B round 1 | AI Ari Shogi | 7 wins 11 losses),<br>
 23th(League B round 2 | AI AN Shogi | 5 wins 13 losses),<br>
-19th(League B round 2 | Tansabo_kun | 7.5 wins 10.5 losses),<br>
+19th(League B round 2 | Tansaibo_kun | 7.5 wins 10.5 losses),<br>
 20th(League B round 2 | AI Ari Shogi | 7 wins 11 losses),<br>
 23th(League B round 3 | AI AN Shogi | 3 wins 9 losses),<br>
-26th(League B round 3 | Tansabo_kun | 2 wins 10 losses),<br>
+26th(League B round 3 | Tansaibo_kun | 2 wins 10 losses),<br>
 18th(League B round 3 | AI Ari Shogi | 5 wins 7 losses),<br>
 22th(League B round 4 | AI AN Shogi | 7 wins 11 losses),<br>
-23th(League B round 4 | Tansabo_kun | 6 wins 12 losses),<br>
+23th(League B round 4 | Tansaibo_kun | 6 wins 12 losses),<br>
 24th(League B round 4 | AI Ari Shogi | 6 wins 12 losses).
 
 - 2022/7/13 ~ now: dlreversi has maintained first place in [novoc studio](https://www.novoc.io/) reversi game.
