@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-# About me
-- 16 year's old
-- First-year high school student in Japan
-
 # I interested in
 - Machine Learning
 - Computer Science
