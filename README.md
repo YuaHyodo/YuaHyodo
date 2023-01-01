@@ -38,6 +38,12 @@
 - 2022/5/3: [第32回世界コンピュータ将棋選手権](http://www2.computer-shogi.org/wcsc32/)に出場。2勝6敗で一次予選29位。
 - 2022/7/9, 2022/7/23: [第3回電竜戦TSEC](https://denryu-sen.jp/denryusen/dr3_tsec/dr1_live.php)に出場。予選は6勝18敗で33位、B級第一部は7勝11敗で21位、B級第二部は7勝11敗で20位、B級第三部は5勝7敗で18位、B級第四部は6勝12敗で24位。
 
+## その他
+- 2022/4/2, 2022/4/3: [電竜戦さくらリーグ2022](https://golan.sakura.ne.jp/denryusen/dr3_sakura/dr1_live.php)に"単細胞くん"が出場。6勝8敗でB級13位。
+- 2022/4/2, 2022/4/3: [電竜戦さくらリーグ2022](https://golan.sakura.ne.jp/denryusen/dr3_sakura/dr1_live.php)に"シンプルニューラルネット将棋AI"が出場。6勝8敗でB級13位。
+- 2022/7/9, 2022/7/23: [第3回電竜戦TSEC](https://denryu-sen.jp/denryusen/dr3_tsec/dr1_live.php)に"単細胞くん"が出場。予選は7勝17敗で32位、B級第一部は5勝18敗で24位、B級第二部は7.5勝10.5敗で19位、B級第三部は2勝10敗で26位、B級第四部は6勝12敗で23位。
+- 2022/7/13 ~ 現在: [novoc studio](https://www.novoc.io/)の「リバーシ」のランキングでdlreversiが1位を維持。
+
 # Achievements
 - 2021/5/3: Participated [World Computer Shogi Championship(WCSC31)](http://www2.computer-shogi.org/wcsc31/), came in 33th.(first qualifyng round| AI AN Shogi | 1 win 7 losses)
 
