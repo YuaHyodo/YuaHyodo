@@ -87,4 +87,5 @@ came in 18th(League B | AI AN Shogi | 3 wins 11 losses), <br>
 - 2022/7/13 ~ now: dlreversi has maintained first place in [novoc studio](https://www.novoc.io/) reversi game.
 
 # contact
+- Kaggle: https://www.kaggle.com/yuahyodo
 - lichess: https://lichess.org/@/UA_2419006
