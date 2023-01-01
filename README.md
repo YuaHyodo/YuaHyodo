@@ -1,4 +1,11 @@
-### Hi there 👋
+### こんにちは
+### Hi there
+
+# 興味がある事
+- 機械学習
+- コンピュータサイエンス
+- 古生物
+- 宇宙
 
 # I interested in
 - Machine Learning
@@ -6,10 +13,24 @@
 - Palaeontology
 - Astronomy
 
+# 作ったもの
+- AI Ari Shogi - ディープラーニングを使った将棋AI
+- AI AN Shogi - 遺伝的アルゴリズムとニューラルネットワークを使った将棋AI
+- dlreversi - ディープラーニングを使ったリバーシAI
+
 # What did I made?
 - AI Ari Shogi - a shogi(japanese chess) AI using deep learning
 - AI AN Shogi - a shogi AI using genetic algorithm and neural network
 - dlreversi - a reversi(othello) AI using deep learing
+
+# 実績など
+
+## AI AN Shogi
+- 2021/5/3: 第31回世界コンピュータ将棋選手権に出場。1勝7敗で一次予選33位。
+- 2021/7/3, 2021/7/17: 第2回電竜戦TSECに出場。予選は10勝14敗で44位、B級第一部は9勝13敗で41位、B級第二部は6勝16敗で46位、B級第三部は8勝14敗で44位。
+- 2021/11/20, 2021/11/21: 第2回電竜戦本戦に出場。予選は2勝8敗で42位、2日目C級は1勝16敗で16位。
+- 2022/4/2, 2022/4/3: 電竜戦さくらリーグ2022に出場。3勝11敗でB級18位。
+- 2022/7/9, 2022/7/23: 第3回電竜戦TSECに出場。予選は3勝21敗で34位、B級第一部は4勝14敗で26位、B級第二部は5勝13敗で23位、B級第三部は3勝9敗で23位、B級第四部は7勝11敗で22位。
 
 # Achievements
 - 2021/5/3: Participated [World Computer Shogi Championship(WCSC31)](http://www2.computer-shogi.org/wcsc31/), came in 33th.(first qualifyng round| AI AN Shogi | 1 win 7 losses)
