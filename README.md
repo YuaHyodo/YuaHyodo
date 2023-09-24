@@ -75,3 +75,6 @@
 # contact
 - Kaggle: https://www.kaggle.com/yuahyodo
 - lichess: https://lichess.org/@/UA_2419006
+- Discord: <br>
+![スクリーンショット 2023-09-24 134006](https://github.com/YuaHyodo/YuaHyodo/assets/66828980/7d074ee4-e52b-4a73-bd2f-f5f73796f279)
+
